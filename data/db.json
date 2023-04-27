@@ -1,0 +1,34 @@
+{
+    "posts": [
+        {
+            "id": 1,
+            "title": "welcome to new blog",
+            "body": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eius id corporis fugiat facere quae enim vel tempora. Voluptatum sit eveniet minima quibusdam doloremque asperiores adipisci incidunt nihil, aperiam fuga aut. Blanditiis et quaerat autem reprehenderit esse tempore pariatur fuga quae fugiat exercitationem molestiae, nobis consectetur natus dolorem accusamus alias quo, possimus ducimus voluptatem, distinctio provident. Quis, sapiente? Asperiores, labore assumenda. Enim repellendus sapiente quas eos architecto fugit est maiores qui! Adipisci dolor consequatur nostrum eius aspernatur, assumenda ab, saepe corrupti asperiores dicta modi ullam magni odio minus? Excepturi assumenda, molestiae nobis ipsum rerum maxime dolorem velit eum, vero obcaecati, illo dicta. Est cum maxime corporis soluta dolorum odit ut minus ab voluptas illum amet ratione numquam, obcaecati tenetur, voluptatem, earum iusto. Quibusdam nisi nam odit explicabo veniam illo cum possimus minus nihil quo sapiente, adipisci consequatur repudiandae quis soluta nulla amet fuga corrupti magnam aspernatur placeat. Similique quas modi quod!",
+            "tags": [
+                "webDev",
+                "css",
+                "codign"
+            ]
+        },
+        {
+            "id": 2,
+            "title": "Top 5 css tips",
+            "body": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eius id corporis fugiat facere quae enim vel tempora. Voluptatum sit eveniet minima quibusdam doloremque asperiores adipisci incidunt nihil, aperiam fuga aut. Blanditiis et quaerat autem reprehenderit esse tempore pariatur fuga quae fugiat exercitationem molestiae, nobis consectetur natus dolorem accusamus alias quo, possimus ducimus voluptatem, distinctio provident. Quis, sapiente? Asperiores, labore assumenda. Enim repellendus sapiente quas eos architecto fugit est maiores qui! Adipisci dolor consequatur nostrum eius aspernatur, assumenda ab, saepe corrupti asperiores dicta modi ullam magni odio minus? Excepturi assumenda, molestiae nobis ipsum rerum maxime dolorem velit eum, vero obcaecati, illo dicta. Est cum maxime corporis soluta dolorum odit ut minus ab voluptas illum amet ratione numquam, obcaecati tenetur, voluptatem, earum iusto. Quibusdam nisi nam odit explicabo veniam illo cum possimus minus nihil quo sapiente, adipisci consequatur repudiandae quis soluta nulla amet fuga corrupti magnam aspernatur placeat. Similique quas modi quod!",
+            "tags": [
+                "webDev",
+                "css",
+                "codign"
+            ]
+        },
+        {
+            "id": 3,
+            "title": "welcome to new blog",
+            "body": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eius id corporis fugiat facere quae enim vel tempora. Voluptatum sit eveniet minima quibusdam doloremque asperiores adipisci incidunt nihil, aperiam fuga aut. Blanditiis et quaerat autem reprehenderit esse tempore pariatur fuga quae fugiat exercitationem molestiae, nobis consectetur natus dolorem accusamus alias quo, possimus ducimus voluptatem, distinctio provident. Quis, sapiente? Asperiores, labore assumenda. Enim repellendus sapiente quas eos architecto fugit est maiores qui! Adipisci dolor consequatur nostrum eius aspernatur, assumenda ab, saepe corrupti asperiores dicta modi ullam magni odio minus? Excepturi assumenda, molestiae nobis ipsum rerum maxime dolorem velit eum, vero obcaecati, illo dicta. Est cum maxime corporis soluta dolorum odit ut minus ab voluptas illum amet ratione numquam, obcaecati tenetur, voluptatem, earum iusto. Quibusdam nisi nam odit explicabo veniam illo cum possimus minus nihil quo sapiente, adipisci consequatur repudiandae quis soluta nulla amet fuga corrupti magnam aspernatur placeat. Similique quas modi quod!",
+            "tags": [
+                "webDev",
+                "css",
+                "codign"
+            ]
+        }
+    ]
+}
